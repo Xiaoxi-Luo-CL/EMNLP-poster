@@ -1,0 +1,16 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Editor and temporary files
+*.tmp
+*.bak
+*.sav
+*~
+*.swp
+*.swo
